@@ -3,7 +3,7 @@ const client = new Discord.Client();
 const client2 = new Discord.Client();
 const client3 = new Discord.Client();
 const client4 = new Discord.Client();
-const myid = ['540252559198388236'];
+const myid = ['540831711722995722'];
 const prefix = ['-'];
 
 client.on('ready', () => {
