@@ -4,11 +4,11 @@ const client2 = new Discord.Client();
 const client3 = new Discord.Client();
 const client4 = new Discord.Client();
 const myid = ['540252559198388236'];
-const prefix = ['!'];
+const prefix = ['-'];
 
 client.on('ready', () => {
    console.log(`----------------`);
-   console.log(`Credit Farmm - Script By : ANGRY `);
+   console.log(`Credit Farmm - Script By : FADY `);
    console.log(`----------------`);
    console.log(`Loadinng`);
    console.log(`Loadinng.`);
